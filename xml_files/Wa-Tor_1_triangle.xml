@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<Simulation>
+    <Author>Diane Lin</Author>
+    <Shape name="triangle">1</Shape>
+    <Type name="Wa-Tor">2</Type>
+    <Saved>0</Saved>
+
+    <Row>10</Row>
+    <Col>10</Col>
+    <Rate>0</Rate>
+    <Agent0>
+        <Energy>4</Energy>
+        <Mature>10</Mature>
+        <Row>0 5 4 3 5 2 3 1 5</Row>
+        <Column>2 4 5 3 1 0 3 2 2</Column>
+    </Agent0>
+
+    <Agent1>
+        <Energy>5</Energy>
+        <Mature>7</Mature>
+        <Row>0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9</Row>
+        <Column>0 9 8 7 6 5 4 3 2 1 1 2 3 4 5 6 7 8 9 0 6 7 8 9 0 1 2 3 4 5 3 2 1 0 9 8 7 6 5 4 6 5 4 3 2 1 0 9 8 7 8 9 0 1 2 3 4 5 6 7 6 5 4 3 2 1 0 9 8 7 6 5 4</Column>
+    </Agent1>
+
+</Simulation>

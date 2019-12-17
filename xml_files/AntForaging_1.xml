@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!--
+doubles: evaporation (0.1) diffusion (0.1) max number of ants in a cell (10)
+
+birthrate (2)
+initial location of food
+initial location of home
+
+
+-->
+
+
+<Simulation>
+    <Author>Diane Lin</Author>
+    <Shape name="rectangle">1</Shape>
+    <Saved>0</Saved>
+    <Type name="Ant Foraging">2</Type>
+    <Row>60</Row>
+    <Col>60</Col>
+
+
+    <Rate>10</Rate>
+    <Evaporation>0.1</Evaporation>
+    <Diffusion>0.1</Diffusion>
+    <MaxAnts>10</MaxAnts>
+    <Birthrate>2</Birthrate>
+
+    <!-- ants -->
+    <Agent0>
+        <!-- location of home -->
+        <Row>5</Row>
+        <Column>10</Column>
+    </Agent0>
+
+    <!-- food -->
+    <Agent1>
+        <Row>50</Row>
+        <Column>40</Column>
+    </Agent1>
+</Simulation>

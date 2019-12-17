@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Simulation>
+    <Saved>1</Saved>
+    <Shape name="rectangle">1</Shape>
+    <Type name="Fire">2</Type>
+    <Row>10</Row>
+    <Col>10</Col>
+    <Rate>25</Rate>
+    <Agent0>
+        <Row>4 5 0 3 0 2 1 2 4 6 5 4 6 2 4 6</Row>
+        <Column>6 3 3 4 1 1 5 2 1 4 0 4 1 4 3 2</Column>
+    </Agent0>
+    <Agent1>
+        <Row>4 3 5 1 0 5 2 3 5 1 2</Row>
+        <Column>5 1 4 2 2 1 0 3 2 4 3</Column>
+    </Agent1>
+</Simulation>

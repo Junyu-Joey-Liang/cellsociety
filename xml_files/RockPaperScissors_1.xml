@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Simulation>
+    <Author>Diane Lin</Author>
+    <Shape name="rectangle">1</Shape>
+    <Type name="Rock Paper Scissors">3</Type>
+    <Saved>0</Saved>
+    <Row>100</Row>
+    <Col>100</Col>
+    <Rate>3</Rate>
+    <Agent0>
+        <Percent>33</Percent>
+        <Row>1</Row>
+        <Column>1</Column>
+    </Agent0>
+
+    <Agent1>
+        <Percent>33</Percent>
+        <Row>1</Row>
+        <Column>1</Column>
+    </Agent1>
+
+    <Agent2>
+        <Percent>34</Percent>
+        <Row>1</Row>
+        <Column>1</Column>
+    </Agent2>
+
+</Simulation>

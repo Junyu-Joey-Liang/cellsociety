@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Simulation>
+    <Saved>1</Saved>
+    <Shape name="triangle">1</Shape>
+    <Type name="Segregation">2</Type>
+    <Row>10</Row>
+    <Col>10</Col>
+    <Rate>40</Rate>
+    <Agent0>
+        <Row>7 0 6 8 0 6 8 4 5 8 4 7 9 0 5 7 9 6 7 9 9 3 4 7 3 8</Row>
+        <Column>3 4 7 8 3 8 7 8 1 6 7 2 9 9 2 7 8 3 8 7 6 8 3 6 7 9</Column>
+    </Agent0>
+    <Agent1>
+        <Row>2 3 5 8 7 2 4 5 9 7 3 6 2 3 2 2 3 2 1 2 8 0 3 1 6 4 1 8 5 0 3 2 1 1</Row>
+        <Column>5 2 3 0 4 6 5 4 2 1 4 5 0 3 8 1 6 9 5 2 3 7 5 6 4 4 7 2 5 6 0 4 8 0</Column>
+    </Agent1>
+</Simulation>

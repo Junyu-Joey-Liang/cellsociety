@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Simulation>
+    <Author>Diane Lin</Author>
+    <Shape name="rectangle">1</Shape>
+    <Saved>0</Saved>
+    <Type name="Fire">2</Type>
+    <Row>30</Row>
+    <Col>30</Col>
+    <Rate>45</Rate>
+    <Agent0>
+        <Row>12 15 17 15 4 3 2 7 19 26 20</Row>
+        <Column>0 7 12 11 10 3 12 15 19 17 16</Column>
+    </Agent0>
+    <Agent1>
+        <Row>1</Row>
+        <Column>2</Column>
+    </Agent1>
+</Simulation>
